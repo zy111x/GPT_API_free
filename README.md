@@ -6,7 +6,7 @@
 
 国内动态加速 直连无需代理
 
-[快速开始](#如何使用) / [API文档](https://chatanywhere.apifox.cn/) / [申请内测免费Key](https://api.chatanywhere.org/v1/oauth/free/github/render) / [支持付费Key](https://buyca.shop/) / [服务可用性](https://status.chatanywhere.tech/)
+[快速开始](#如何使用) / [API文档](https://chatanywhere.apifox.cn/) / [申请内测免费Key](https://api.chatanywhere.org/v1/oauth/free/render) / [支持付费Key](https://buyca.tech/) / [服务可用性](https://status.chatanywhere.tech/)
 
 [QQ群: 1009368550](https://qm.qq.com/cgi-bin/qm/qr?k=IUo12Iwbb9X8FGdAJevKIanOkAb7EcAV&jump_from=webapi&authKey=mUS0pJ45r7qiVufMlylLOdi6FmL9M4PdMc6wz6Jk8r2Yr7DZGk0QcjsCedNOShRq)
 
@@ -77,7 +77,7 @@
 
 ## 免费使用
 
-- **🚀[申请领取内测免费API Key](https://api.chatanywhere.org/v1/oauth/free/github/render)**
+- **🚀[申请领取内测免费API Key](https://api.chatanywhere.org/v1/oauth/free/render)**
 - 免费版支持gpt-3.5-turbo, embedding, gpt-4o-mini, gpt-4。其中gpt-4由于价格过高，每天限制3次调用（0点刷新）。需要更稳定快速的gpt-4请使用付费版。
 - 免费版gpt-4由gpt-4o提供服务，但免费版暂不支持识图。
 - **转发Host1: `https://api.chatanywhere.tech` (国内中转，延时更低)**
@@ -90,7 +90,7 @@
 
 ## 付费版API
 - 纯公益提供免费Key显然不是能持久运营下去的方案，所以我们引入付费API Key维持项目的日常开销，以促进项目的良性循环，还望大家理解。
-- [购买付费Key](https://buyca.shop/)
+- [购买付费Key](https://buyca.tech/)
 - [付费版价格表](https://chatanywhere.apifox.cn/doc-2694962)
 
 1. 支持**更稳定更快速的GPT4 API**，GPT4体验更好，无限使用，价格低于官方，充值更便捷。
@@ -100,7 +100,7 @@
 
 ## 如何使用
 - 由于频繁的恶意请求，我们不再直接提供公共的免费Key，现在需要你使用你的Github账号绑定来领取你自己的免费Key。
-- 🚀[申请领取内测免费API Key](https://api.chatanywhere.org/v1/oauth/free/github/render) 或 [购买内测付费API Key](https://buyca.shop/)
+- 🚀[申请领取内测免费API Key](https://api.chatanywhere.org/v1/oauth/free/render) 或 [购买内测付费API Key](https://buyca.tech/)
 - 转发Host1: `https://api.chatanywhere.tech` (国内中转，延时更低)
 - 转发Host2: `https://api.chatanywhere.org` (国外使用)
 - 余额和使用记录查询（通知公告也会发在这里）: [余额查询及公告](https://api.chatanywhere.tech/)
